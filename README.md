@@ -1,25 +1,33 @@
-## sūdoku
+# sūdoku
 
-Sudoku game and generator written using React and Python for pregenerated puzzles.
+Sudoku puzzle written using React and Python for pregenerated puzzles.
 
 The goal of Sudoku is to fill a 9×9 grid with numbers so that each row, column and 3×3 section contain all of the digits between 1 and 9.
 
-Click here to solve puzzles 👉👉👉[jan25/sūdoku](https://jan25.github.io/sudoku) 👈👈👈 🎉🎉
+Click here to solve puzzles 👉👉👉[jan25/sūdoku](https://jan25.github.io/sudoku) 👈👈👈 
+
+
+![Demo image](demo.png)
 
 ## Develop
 
-```
+```bash
+# Fork and clone repo
+git clone https://github.com/jan25/sudoku.git
 cd path/to/sudoku
 
+# Local development
 npm install
 npm start
 
+# Production build and test
 npm run predeploy && <serve-build-assets-with-favorite-tool>
 
+# Deploy to github pages
 npm run deploy
 ```
 
-### Few next things todo
+## Coming up
 
 - ~~Remove '0' number from empty cells~~
 - ~~Highlight cell when dragging to drop~~
