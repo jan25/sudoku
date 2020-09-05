@@ -6,8 +6,9 @@ The goal of Sudoku is to fill a 9×9 grid with numbers so that each row, column 
 
 Click here to solve puzzles 👉👉👉[jan25/sūdoku](https://jan25.github.io/sudoku) 👈👈👈 
 
-
-![Demo image](demo.png)
+<p align="center">
+    <img src="demo.png" width="300" height="400">
+</p>
 
 ## Develop
 
