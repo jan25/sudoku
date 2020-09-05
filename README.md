@@ -1,6 +1,6 @@
 ## sūdoku
 
-Sudoku game and generator written in Javascript.
+Sudoku game and generator written using React and Python for pregenerated puzzles.
 
 The goal of Sudoku is to fill a 9×9 grid with numbers so that each row, column and 3×3 section contain all of the digits between 1 and 9.
 
